@@ -1,0 +1,14 @@
+# Base theme. Streamlit's own widgets (sliders, inputs, tabs, tables) pick these
+# up directly, so the custom stylesheet in ui/theme.py only has to handle the
+# things the theme system cannot express.
+[theme]
+base = "light"
+primaryColor = "#2457D6"
+backgroundColor = "#F5F7FA"
+secondaryBackgroundColor = "#EDF1F7"
+textColor = "#0F2137"
+font = "sans serif"
+baseRadius = "medium"
+
+[client]
+toolbarMode = "minimal"
