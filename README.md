@@ -12,7 +12,7 @@ neighborhoods you deliver to and how many orders each one generates per day. It 
 and what the plan costs compared with the obvious layout**, then lets you stress-test it.
 
 
-Add screenshots to docs/screenshots/ and uncomment these lines:
+
 
 ![Dashboard](docs/screenshots/dashboard.png)
 ![Results](docs/screenshots/results.png)
